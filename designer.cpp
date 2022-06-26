@@ -501,23 +501,24 @@ void GateDesigner::updateDisplay(){
 			item->setScale(0.4);
 			m_graphicsScene->addItem(item);
 			if(gates[i].idconnectone != -1 ){
-			if(gates[i].idconnectone != -2){
 			if(gates.length()<(gates[i].idconnectone)-1){
 			QMessageBox msgBox;
 			msgBox.setText("Fatal: Input Gate does not exist, check IDs and try again.");
 			msgBox.exec();
 			}else{
+			if(gates[i].idconnectone != -2){
 			m_graphicsScene->addLine(gates[i].x+30,gates[i].y,gates[(gates[i].idconnectone)-1].x+60,gates[(gates[i].idconnectone)-1].y);
 			}
 			}
 			}
 			if(gates[i].idconnecttwo != -1 ){
-			if(gates[i].idconnecttwo != -2)
+			
 			if(gates.length()<(gates[i].idconnecttwo)-1){
 			QMessageBox msgBox;
 			msgBox.setText("Fatal: Input Gate does not exist, check IDs and try again.");
 			msgBox.exec();
 			}else{
+				if(gates[i].idconnecttwo != -2){
 			m_graphicsScene->addLine(gates[i].x+60,gates[i].y,gates[(gates[i].idconnecttwo)-1].x+60,gates[(gates[i].idconnecttwo)-1].y);
 			}
 			}
@@ -531,15 +532,17 @@ void GateDesigner::updateDisplay(){
 			item->setScale(0.4);
 			m_graphicsScene->addItem(item);
 			if(gates[i].idconnectone != -1){
-			if(gates[i].idconnectone != -2){
+			
 			if(gates.length()<(gates[i].idconnectone)-1){
 			QMessageBox msgBox;
 			msgBox.setText("Fatal: Input Gate does not exist, check IDs and try again.");
 			msgBox.exec();
 			}else{
+			if(gates[i].idconnectone != -2){
 			m_graphicsScene->addLine(gates[i].x+30,gates[i].y,gates[(gates[i].idconnectone)-1].x+60,gates[(gates[i].idconnectone)-1].y);
 			}
 			}
+			
 		}
 		}
 		if(gates[i].type == "Or Gate"){
@@ -549,31 +552,34 @@ void GateDesigner::updateDisplay(){
 			item->setScale(0.4);
 			m_graphicsScene->addItem(item);
 			if(gates[i].idconnectone != -1){
-			if(gates[i].idconnectone != -2){
+			
 			if(gates.length()<(gates[i].idconnectone)-1){
 			QMessageBox msgBox;
 			msgBox.setText("Fatal: Input Gate does not exist, check IDs and try again.");
 			msgBox.exec();
 			}else{
+				if(gates[i].idconnectone != -2){
 			m_graphicsScene->addLine(gates[i].x+30,gates[i].y,gates[(gates[i].idconnectone)-1].x+60,gates[(gates[i].idconnectone)-1].y);
 			}
 			}
 			}
+	
 			if(gates[i].idconnecttwo != -1){
-			if(gates[i].idconnecttwo != -2){
+			
 			if(gates.length()<(gates[i].idconnecttwo)-1){
 				
 			QMessageBox msgBox;
 			msgBox.setText("Fatal: Input Gate does not exist, check IDs and try again.");
 			msgBox.exec();
 			}else{
+			if(gates[i].idconnecttwo != -2){
 			m_graphicsScene->addLine(gates[i].x+60,gates[i].y,gates[(gates[i].idconnecttwo)-1].x+60,gates[(gates[i].idconnecttwo)-1].y);
 			}
 			}
 			}	
 		}
 	}
-
+}
 
 void GateDesigner::changePlace(std::string direction){
 	int index = listWidget->currentRow();
