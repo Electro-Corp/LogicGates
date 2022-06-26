@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="1200"
+   height="630"
+   viewBox="0 0 1200 630"
+   version="1.1"
+   id="svg5"
+   inkscape:export-filename="/root/logicgate/images/splash.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   sodipodi:docname="splash.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:zoom="0.55875"
+     inkscape:cx="541.38702"
+     inkscape:cy="310.51454"
+     inkscape:window-width="1920"
+     inkscape:window-height="1036"
+     inkscape:window-x="-3"
+     inkscape:window-y="-3"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient27036">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop27032" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0;"
+         offset="1"
+         id="stop27034" />
+    </linearGradient>
+    <rect
+       x="793.47931"
+       y="547.12417"
+       width="329.63419"
+       height="45.714267"
+       id="rect23420" />
+    <rect
+       x="53.771891"
+       y="59.623838"
+       width="746.8844"
+       height="540.5789"
+       id="rect5918" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient2494">
+      <stop
+         style="stop-color:#47ffff;stop-opacity:1;"
+         offset="0"
+         id="stop2490" />
+      <stop
+         style="stop-color:#47ffff;stop-opacity:0;"
+         offset="1"
+         id="stop2492" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2494"
+       id="linearGradient2496"
+       x1="29.925056"
+       y1="313.1991"
+       x2="1172.7595"
+       y2="313.1991"
+       gradientUnits="userSpaceOnUse" />
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter26464"
+       x="-0.023560133"
+       y="-0.047268444"
+       width="1.0471203"
+       height="1.0945369">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="11.000738"
+         id="feGaussianBlur26466" />
+    </filter>
+    <rect
+       x="53.771893"
+       y="59.623837"
+       width="746.8844"
+       height="540.57892"
+       id="rect5918-1" />
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter26596"
+       x="-0.063347748"
+       y="-0.089067224"
+       width="1.1266955"
+       height="1.1781344">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="15.193562"
+         id="feGaussianBlur26598" />
+    </filter>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient27036"
+       id="linearGradient27040"
+       x1="17.306936"
+       y1="310.63794"
+       x2="665.86102"
+       y2="310.63794"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#2b0000;fill-opacity:0;stroke:#000000"
+       id="rect846"
+       width="1201.4984"
+       height="629.89423"
+       x="0.065814197"
+       y="-2.258055" />
+    <path
+       style="fill:#2b0000;fill-opacity:0;stroke:#000000;stroke-width:1.78971"
+       d="M 1.7897092,313.1991 V 0 H 601.34228 1200.8949 V 313.1991 626.39821 H 601.34228 1.7897092 Z"
+       id="path1149" />
+    <path
+       style="fill:#2b0000;fill-opacity:0;stroke:#000000;stroke-width:1.78971"
+       d="M 3.5794183,313.1991 V 1.7897092 H 601.34228 1199.1051 V 313.1991 624.6085 H 601.34228 3.5794183 Z"
+       id="path1188" />
+    <path
+       style="fill:#2b0000;fill-opacity:0;stroke:#000000;stroke-width:1.78971"
+       d="M 5.3691275,313.1991 V 3.5794183 H 601.34228 1197.3154 V 313.1991 622.81879 H 601.34228 5.3691275 Z"
+       id="path1227" />
+    <path
+       style="fill:#2b0000;fill-opacity:0;stroke:#000000;stroke-width:1.78971"
+       d="M 7.1588367,313.1991 V 5.3691275 H 601.34228 1195.5257 V 313.1991 621.02908 H 601.34228 7.1588367 Z"
+       id="path1266" />
+    <path
+       style="fill:#2b0000;fill-opacity:0;stroke:#000000;stroke-width:1.78971"
+       d="M 8.9485459,313.1991 V 7.1588367 H 601.34228 1193.736 V 313.1991 619.23937 H 601.34228 8.9485459 Z"
+       id="path1305" />
+    <path
+       style="fill:#2b0000;fill-opacity:0;stroke:#000000;stroke-width:1.78971"
+       d="M 10.738255,313.1991 V 8.9485459 H 601.34228 1191.9463 V 313.1991 617.44966 H 601.34228 10.738255 Z"
+       id="path1344" />
+    <path
+       style="fill:#2b0000;fill-opacity:0;stroke:#000000;stroke-width:1.78971"
+       d="M 12.527964,313.1991 V 10.738255 H 601.34228 1190.1566 V 313.1991 615.65995 H 601.34228 12.527964 Z"
+       id="path1383" />
+    <path
+       style="fill:#2b0000;fill-opacity:0;stroke:#000000;stroke-width:1.78971"
+       d="M 14.317673,313.1991 V 12.527964 H 601.34228 1188.3669 V 313.1991 613.87025 H 601.34228 14.317673 Z"
+       id="path1422" />
+    <path
+       style="fill:#2b0000;fill-opacity:0;stroke:#000000;stroke-width:1.78971"
+       d="M 16.107383,313.1991 V 14.317673 H 601.34228 1186.5772 V 313.1991 612.08054 H 601.34228 16.107383 Z"
+       id="path1461" />
+    <path
+       style="fill:#2b0000;fill-opacity:0;stroke:#000000;stroke-width:1.78971"
+       d="M 17.897092,313.1991 V 16.107383 H 601.34228 1184.7875 V 313.1991 610.29083 H 601.34228 17.897092 Z"
+       id="path1500" />
+    <path
+       style="fill:#2b0000;fill-opacity:0;stroke:#000000;stroke-width:1.78971"
+       d="M 19.686801,313.1991 V 17.897092 H 601.34228 1182.9978 V 313.1991 608.50112 H 601.34228 19.686801 Z"
+       id="path1539" />
+    <path
+       style="fill:#2b0000;fill-opacity:0;stroke:#000000;stroke-width:1.78971"
+       d="M 21.47651,313.1991 V 19.686801 H 601.34228 1181.2081 V 313.1991 606.71141 H 601.34228 21.47651 Z"
+       id="path1578" />
+    <path
+       style="fill:#2b0000;fill-opacity:0;stroke:#000000;stroke-width:1.78971"
+       d="M 23.266219,313.1991 V 21.47651 H 601.34228 1179.4183 V 313.1991 604.9217 H 601.34228 23.266219 Z"
+       id="path1617" />
+    <path
+       style="fill:#2b0000;fill-opacity:0;stroke:#000000;stroke-width:1.78971"
+       d="M 25.055928,313.1991 V 23.266219 H 601.34228 1177.6286 V 313.1991 603.13199 H 601.34228 25.055928 Z"
+       id="path1656" />
+    <path
+       style="fill:#2b0000;fill-opacity:0;stroke:#000000;stroke-width:1.78971"
+       d="M 26.845638,313.1991 V 25.055928 H 601.34228 1175.8389 V 313.1991 601.34228 H 601.34228 26.845638 Z"
+       id="path1695" />
+    <path
+       style="fill:#2b0000;fill-opacity:0;stroke:#000000;stroke-width:1.78971"
+       d="M 28.635347,313.1991 V 26.845638 H 601.34228 1174.0492 V 313.1991 599.55257 H 601.34228 28.635347 Z"
+       id="path1734" />
+    <path
+       style="fill:#2b0000;fill-opacity:0;stroke:#000000;stroke-width:1.78971"
+       d="M 30.425056,313.1991 V 28.635347 H 601.34228 1172.2595 V 313.1991 597.76286 H 601.34228 30.425056 Z"
+       id="path1773" />
+    <rect
+       style="fill:url(#linearGradient2496);fill-opacity:1;stroke:#000000;filter:url(#filter26464)"
+       id="rect1834"
+       width="1141.8345"
+       height="569.1275"
+       x="30.425056"
+       y="28.635347" />
+    <text
+       xml:space="preserve"
+       id="text5916"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:192px;line-height:1.25;font-family:'Freebooter Script';-inkscape-font-specification:'Freebooter Script';white-space:pre;shape-inside:url(#rect5918);fill:#000000;fill-opacity:1;stroke:none"><tspan
+         x="53.771484"
+         y="237.18555"
+         id="tspan27864"><tspan
+           style="font-family:GraphicPixel;-inkscape-font-specification:GraphicPixel"
+           id="tspan27862">LOGIC 
+</tspan></tspan><tspan
+         x="53.771484"
+         y="515.34033"
+         id="tspan27868"><tspan
+           style="font-family:GraphicPixel;-inkscape-font-specification:GraphicPixel"
+           id="tspan27866">GATES</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       id="text5916-2"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:192px;line-height:1.25;font-family:'Freebooter Script';-inkscape-font-specification:'Freebooter Script';white-space:pre;shape-inside:url(#rect5918-1);fill:#000000;fill-opacity:1;stroke:none;filter:url(#filter26596);opacity:1"
+       transform="translate(6.8963881,2.8446858)"><tspan
+         x="53.771484"
+         y="237.18555"
+         id="tspan27872"><tspan
+           style="font-family:GraphicPixel;-inkscape-font-specification:GraphicPixel"
+           id="tspan27870">LOGIC 
+</tspan></tspan><tspan
+         x="53.771484"
+         y="515.34033"
+         id="tspan27876"><tspan
+           style="font-family:GraphicPixel;-inkscape-font-specification:GraphicPixel"
+           id="tspan27874">GATES</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       id="text23418"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect23420);fill:#000000;fill-opacity:1;stroke:none"><tspan
+         x="793.47852"
+         y="583.15518"
+         id="tspan27878">Version 0.1 Alpha</tspan></text>
+  </g>
+</svg>
